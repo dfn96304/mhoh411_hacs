@@ -1,0 +1,25 @@
+{
+  "title": "MHO-H411 CO2 Monitor",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Add MHO-H411",
+        "description": "Enter the Bluetooth address (MAC) of your MHO-H411.",
+        "data": {
+          "address": "Bluetooth address",
+          "poll_interval": "Polling interval (seconds)"
+        }
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "MHO-H411 options",
+        "data": {
+          "poll_interval": "Polling interval (seconds)"
+        }
+      }
+    }
+  }
+}
