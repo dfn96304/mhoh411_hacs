@@ -1,6 +1,6 @@
 # MHO-H411 CO2 Monitor (Home Assistant + HACS)
 
-Vibe coded Home Assistant integration for the **MHO-H411** Bluetooth temperature/humidity/CO₂ sensor.
+Home Assistant integration for the **MHO-H411** Bluetooth temperature/humidity/CO₂ sensor.
 
 - UI setup (no `configuration.yaml`)  
 - Automatic discovery
